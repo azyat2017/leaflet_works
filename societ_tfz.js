@@ -1,0 +1,32 @@
+var societ_tfz={
+"type": "FeatureCollection",
+"name": "societ_TFZ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Inergy Automotive System", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.92971068695624, 35.719381051641626 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nom": "MEDI1 TV", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.923607746253736, 35.719497637266073 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nom": "SE Bordnetze Maroc", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.923272682842618, 35.718215186014824 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nom": "Teknia", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.926195630219583, 35.715840630840681 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nom": "Esterline-Souriau", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.922579599566734, 35.715917892261935 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nom": "SNOP", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.923673924632729, 35.71473320890447 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nom": "MAYBORN Maroc", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.921628012552826, 35.713484121508749 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Nom": "Ste Alae WELTMARK", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.920105473330574, 35.714488543842997 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Nom": "Vivioni SARL", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.918646373242582, 35.710367756266002 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "NUR Wagen", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.905990265957615, 35.71437264960435 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Centre d'affaires E-business", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.910288267303764, 35.715441445637531 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Movendo Aeronautics", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.910129669468114, 35.716046661130918 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "SJL Maghreb", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.907623823664824, 35.717038174452391 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "YAZAKI Tanger", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.909082923752816, 35.718454600653402 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Lear Corporation Tanger", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.912080422846625, 35.719072669650608 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "ZF Business Center", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.908210635656734, 35.719974011677586 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "CofiCab", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.909860053147506, 35.721377509676756 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Noresec Maroc", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.912048703279495, 35.721197245262495 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Polydesign System SARL", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.914062895792266, 35.720592068888791 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Fujikura Automotive Morocco SA", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.906148863793267, 35.723605029135832 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "VAFAMEG SARL", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.909638016177595, 35.722858237644395 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Antolin Tanger", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.916077088305037, 35.721686533438024 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "VALEO", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.916743199214773, 35.717772143899637 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "Tanger Exportation Free Zone", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.911905965227409, 35.718428847674481 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom": "GMD", "Zone": "TFZ" }, "geometry": { "type": "Point", "coordinates": [ -5.904490321864899, 35.721318950817391 ] } }
+]
+}

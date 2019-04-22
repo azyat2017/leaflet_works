@@ -1,0 +1,33 @@
+var zig={
+"type": "FeatureCollection",
+"name": "zig2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nom": "Adenamed", "Zone": "Gzenaya", "xcoord": -5.90223, "ycoord": 35.71065, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90223, 35.71065 ] } },
+{ "type": "Feature", "properties": { "Nom": "Agriroues Maroc", "Zone": null, "xcoord": -5.89602, "ycoord": 35.71387, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.895871679900652, 35.713916902271535 ] } },
+{ "type": "Feature", "properties": { "Nom": "Atantic coast Sahly Energy", "Zone": "Gzenaya", "xcoord": -5.90187, "ycoord": 35.71067, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90187, 35.71067 ] } },
+{ "type": "Feature", "properties": { "Nom": "Auto Hall Tanger II", "Zone": "Gzenaya", "xcoord": -5.9027, "ycoord": 35.71339, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.902643725168586, 35.713316629282936 ] } },
+{ "type": "Feature", "properties": { "Nom": "Detroit Automative", "Zone": "Gzenaya", "xcoord": -5.90274, "ycoord": 35.71378, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.9027334211324, 35.713847905376291 ] } },
+{ "type": "Feature", "properties": { "Nom": "Doncel Maroc", "Zone": "Gz", "xcoord": -5.902, "ycoord": 35.71083, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.902, 35.71083 ] } },
+{ "type": "Feature", "properties": { "Nom": "Elopar Maghreb", "Zone": "Gzenaya", "xcoord": -5.90167, "ycoord": 35.71026, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90167, 35.71026 ] } },
+{ "type": "Feature", "properties": { "Nom": "GEFCO", "Zone": "Gzenaya", "xcoord": -5.89987, "ycoord": 35.71446, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89987, 35.71446 ] } },
+{ "type": "Feature", "properties": { "Nom": "Hard Auto", "Zone": "Gzenaya", "xcoord": -5.90259, "ycoord": 35.71374, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.902609226720966, 35.713585717174375 ] } },
+{ "type": "Feature", "properties": { "Nom": "Imgraft MAROC SARL", "Zone": "ZIG", "xcoord": -5.90166, "ycoord": 35.711, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90166, 35.711 ] } },
+{ "type": "Feature", "properties": { "Nom": "immo services", "Zone": "Gzenaya", "xcoord": -5.90248, "ycoord": 35.7111, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90248, 35.7111 ] } },
+{ "type": "Feature", "properties": { "Nom": "LAMIDAP", "Zone": "ZIG", "xcoord": -5.89523, "ycoord": 35.7165, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89523, 35.7165 ] } },
+{ "type": "Feature", "properties": { "Nom": "LAPS Services SARL", "Zone": "Gzenaya", "xcoord": -5.90098, "ycoord": 35.70988, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90098, 35.70988 ] } },
+{ "type": "Feature", "properties": { "Nom": "Maroc Positionnement", "Zone": "ZIG", "xcoord": -5.89805, "ycoord": 35.71476, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89805, 35.71476 ] } },
+{ "type": "Feature", "properties": { "Nom": "Metalix Tanger", "Zone": "Gzenaya", "xcoord": -5.89502, "ycoord": 35.71389, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.895026467933944, 35.713951400719154 ] } },
+{ "type": "Feature", "properties": { "Nom": "NAZIH Confection", "Zone": "ZIG", "xcoord": -5.90278, "ycoord": 35.7145, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90278, 35.7145 ] } },
+{ "type": "Feature", "properties": { "Nom": "NOVA MODA 2", "Zone": "ZIG", "xcoord": -5.89341, "ycoord": 35.71484, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89341, 35.71484 ] } },
+{ "type": "Feature", "properties": { "Nom": "Occico Sarl", "Zone": "ZIG", "xcoord": -5.90063, "ycoord": 35.71528, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90063, 35.71528 ] } },
+{ "type": "Feature", "properties": { "Nom": "P TRANS trasport international", "Zone": "ZIG", "xcoord": -5.90058, "ycoord": 35.71187, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90058, 35.71187 ] } },
+{ "type": "Feature", "properties": { "Nom": "RainBow Storage Tanger", "Zone": "Gzenaya", "xcoord": -5.90143, "ycoord": 35.71233, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90143, 35.71233 ] } },
+{ "type": "Feature", "properties": { "Nom": "SABINDT SARL", "Zone": "ZIG", "xcoord": -5.90111, "ycoord": 35.70998, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.90111, 35.70998 ] } },
+{ "type": "Feature", "properties": { "Nom": "Sara Technologies", "Zone": "Gzenaya", "xcoord": -5.89673, "ycoord": 35.71444, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.896554749163543, 35.714482676812516 ] } },
+{ "type": "Feature", "properties": { "Nom": "Sofia pub", "Zone": null, "xcoord": -5.89755, "ycoord": 35.71516, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89755, 35.71516 ] } },
+{ "type": "Feature", "properties": { "Nom": "Sofia PUB", "Zone": "Gzenaya", "xcoord": -5.89756, "ycoord": 35.71489, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.897420660198824, 35.714931156631593 ] } },
+{ "type": "Feature", "properties": { "Nom": "Toubkal TANHER", "Zone": "ZIG", "xcoord": -5.89521, "ycoord": 35.71033, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.89521, 35.71033 ] } },
+{ "type": "Feature", "properties": { "Nom": "NMN", "Zone": "ZIG", "xcoord": null, "ycoord": null, "email": null }, "geometry": { "type": "Point", "coordinates": [ -5.897417210354062, 35.714282585816321 ] } }
+]
+}
