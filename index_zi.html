@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Leaflet Map with line</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+    <div class="column carte" id="map"></div>
+   
+    <div class="column details"> 
+    	<div class="sideLeft"> 
+    <div id="controls" style="margin: 15px;">
+		<!--<button class="btn add" id="addButton"> Ajouter TFZ Entreprises</button> -->
+		<!--<button class="btn hide" id="removeButton">Cacher TFZ Entreprises</button> -->
+		<button class="btn toggle" id="toggleButTFZ">Entreprises TFZ</button>
+		<button class="btn toggle" id="toggleButgz"> Entreprises Guznaya</button>
+		<button class="btn toggle" id="toggleButmg"> Entreprises Mghougha</button>
+		<button class="btn toggle" id="toggleButTAC"> Entreprises TAC</button>
+	</div>
+	</div>
+
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+   <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+
+    <script src = "js/societ_tfz.js"></script>
+    <script src = "js/zig.js"></script>
+    <script src = "data/zim.js"></script>
+    <script src = "js/tac.js"></script>
+    <script src = "js/zone_urbaine.js"></script>
+    <script src = "js/tfz_delimit.js"></script>
+    <script src = "js/gz_delimit.js"></script>
+    <script src = "js/mg_delimit.js"></script>
+    
+    <!--fichier javascript pour afficher une carte avec des données geojson
+    -->
+    <script src = "js/load_geojqon.js"> </script>
+</body>
+</html>
